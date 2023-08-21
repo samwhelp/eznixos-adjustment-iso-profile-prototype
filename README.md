@@ -1,6 +1,67 @@
 
 
-# Home
+# EznixOs Adjustment
 
-| [eznixos-adjustment-iso-profile-prototype](https://samwhelp.github.io/eznixos-adjustment-iso-profile-prototype/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype) |
+
+## Docs
+
+| Docs |
+| --- |
+| [Config File Path](helper/doc/config.md) |
+
+
+## Howto
+
+### prepare
+
+to install [live-build](https://packages.debian.org/sid/live-build)
+
+``` sh
+make prepare
+```
+
+### vendor
+
+to build vendor package
+
+``` sh
+make vendor-build
+```
+
+
+### build
+
+to build iso
+
+``` sh
+make build
+```
+
+
+### run_iso
+
+to test iso
+
+```
+make run_iso
+```
+
+### clean
+
+to clean dir: [tmp]
+
+``` sh
+make clean
+```
+
+
+### make-profile
+
+``` sh
+THE_DEFAULT_RUN=make-profile make build
+```
+
+
+## Reference
+
 
