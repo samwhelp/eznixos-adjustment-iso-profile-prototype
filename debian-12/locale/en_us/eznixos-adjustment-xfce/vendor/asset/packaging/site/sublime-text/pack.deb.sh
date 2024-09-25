@@ -6,7 +6,7 @@
 
 name="sublime-text"
 gives="${name}"
-pkgver="4169"
+pkgver="4180"
 pkgrel="1"
 arch="all"
 description="This is a personal package which build from eznixos-adjustment."
