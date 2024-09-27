@@ -13,7 +13,7 @@
 ## ISO Profile
 
 | en_us | zh_tw |
-| --- | --- |
+| ----- | ----- |
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/main/debian-12/locale/en_us/eznixos-adjustment-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-xfce) |
 
 
