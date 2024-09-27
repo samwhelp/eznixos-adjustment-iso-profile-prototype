@@ -1,12 +1,17 @@
 
-# eznixos-adjustment-iso-profile-prototype
+
+# EznixOS Adjustment / ISO Profile / Prototype
+
+
 
 
 ## Branch
 
 | en_us | zh_tw |
 | --- | --- |
-| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/zh_tw-xfce) |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/main/debian-12/locale/en_us/eznixos-adjustment-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-xfce) |
+
+
 
 
 ## EznixOS / Link
